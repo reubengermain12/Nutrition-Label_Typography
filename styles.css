@@ -1,0 +1,4 @@
+/*Remember that fonts with spaces in the name must be wrapped in quotes for CSS.*/
+body {
+  font-family: "Open Sans", sans-serif;
+}
