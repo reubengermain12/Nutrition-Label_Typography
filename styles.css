@@ -44,6 +44,7 @@ p {
 }
 .calories-info h1 {
   margin: -5px -2px;
+  overflow: hidden;
 }
 .calories-info span {
   font-size: 1.2em;
