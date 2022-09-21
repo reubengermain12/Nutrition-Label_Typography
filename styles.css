@@ -37,4 +37,5 @@ p {
 .lg,
 .md {
   background-color: black;
+  border: 0;
 }
