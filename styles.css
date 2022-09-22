@@ -67,4 +67,6 @@ p {
 .note {
   font-size: 0.6rem;
   margin: 5px 0px;
+  padding: 0px 8px;
+  text-indent: -8px;
 }
